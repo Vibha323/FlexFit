@@ -10,11 +10,5 @@
 		<p id="93ed1197-a051-4b76-b165-06a3959f90ff" class="">Assets : <a href="https://furtive-wood-f20.notion.site/fc8cb4275a2e486d9cc8d1bdacc95dad?v=9603b1f382ea44c6b01d97c73a2ce01a">Click Here</a></p>
 				</div>
 
-<div id="3e1927f5-fb95-4783-aacd-02277abda632" style="width:75%" class="column">
 
-<h2 id="929eecc1-af7f-4737-88f9-1addde5786ad" class="">Authors</h2>
-
-- [Vaishnav Vivek Prabhu](https://github.com/vaishnavvprabhu)
-- [Vaishnavi Singh](https://github.com/singhvaishnavi25)
-				</div>
 
